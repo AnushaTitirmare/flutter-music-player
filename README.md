@@ -1,17 +1,37 @@
-# testapp
+# Flutter Music Player
 
-A new Flutter project.
+A modern music player application built using Flutter and Dart.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Play music
+* Pause music
+* Next song
+* Previous song
+* Playlist support
+* Album artwork display
+* Progress tracking
+* Modern user interface
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Android Studio
+* VS Code
+* Audioplayers
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Learning Outcomes
+
+This project helped me learn:
+
+* Flutter Widgets
+* StatefulWidget
+* Asset Management
+* Audio Playback
+* Git and GitHub
+* Android Emulator Testing
+
+## Author
+
+Anusha Titirmare
